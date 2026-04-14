@@ -21,8 +21,6 @@ HTML, CSS, JavaScript
 
 ## 🔹 Preview
 
-![Desktop View](lawprep-landing-page
-/desktop.png)
-![Mobile View](lawprep-landing-page
-/mobile.png)
+![Desktop View](desktop.png)
+![Mobile View](mobile.png)
 
