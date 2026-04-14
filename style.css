@@ -97,7 +97,7 @@ bottom: -55px;
 }
 
 #our-programs .card:hover {
-  background: url('images/bg.png') no-repeat;
+  background: url('/bg.png') no-repeat;
   background-size: cover;
   transition: 0.3s ease-in-out; 
   color: white !important;
