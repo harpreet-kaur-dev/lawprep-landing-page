@@ -1,0 +1,16 @@
+@media only screen and (min-width: 200px) and (max-width: 576px) {
+    #logo {
+        width: 70px;
+    }
+    #banner-section-form .form-control{
+        padding:4px;
+    }
+ 
+    #news-section .img-card{
+        display: block;
+    }
+    .copyryt{
+        display: block;
+         }
+   
+}
